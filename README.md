@@ -29,7 +29,7 @@ You do not need to install tor. Tor is automatically installed when selected for
 ```
 git clone https://github.com/JaydenIsBaiting/MSMC-Linux
 cd MSMC-Linux
-pip italnsl -r requirements.txt
+pip install -r requirements.txt
 python MSMC_Linux.py
 ```
 
@@ -40,10 +40,6 @@ python -m venv env
 source env/bin/activate
 git clone https://github.com/JaydenIsBaiting/MSMC-Linux
 cd MSMC-Linux
-pip italnsl -r requirements.txt
+pip install -r requirements.txt
 python MSMC_Linux.py
 ```
-
-## Addons
-[Inboxer](https://github.com/PgerTools/MSMC-Inbox)
-
