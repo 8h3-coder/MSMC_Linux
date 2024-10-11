@@ -27,7 +27,7 @@ THIS VERSION OF MSMC SUPPORTS LINUX
 You do not need to install tor. Tor is automatically installed when selected for proxies.
 
 ```
-git clone https://github.com/JaydenIsBaiting/MSMC-Linux
+git clone https://github.com/8h3-coder/MSMC_Linux
 cd MSMC-Linux
 pip install -r requirements.txt
 python MSMC_Linux.py
@@ -38,8 +38,8 @@ python MSMC_Linux.py
 ```
 python -m venv env
 source env/bin/activate
-git clone https://github.com/JaydenIsBaiting/MSMC-Linux
-cd MSMC-Linux
+git clone https://github.com/8h3-coder/MSMC_Linux
+cd MSMC_Linux
 pip install -r requirements.txt
 python MSMC_Linux.py
 ```
