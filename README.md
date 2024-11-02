@@ -33,7 +33,7 @@ pip install -r requirements.txt
 python MSMC_Linux.py
 ```
 
-#Full install:
+# Linux install:
 
 ```
 python -m venv env
